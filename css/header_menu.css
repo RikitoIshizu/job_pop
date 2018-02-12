@@ -1,0 +1,113 @@
+@import "base.css";
+
+h1 {
+  font-family: 'CooperBlack';
+  color: #29ace2;
+  font-size: 40px;
+  margin: 20px 0 20px 20px;
+}
+
+h2 {
+  width: 720px;
+  background: -moz-linear-gradient(#f5f5f5, #eaeaea);
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  padding: 10px 0 10px 30px;
+  margin:0 auto;
+}
+
+.btn {
+  display: block;
+  margin: 40px auto;
+}
+
+#main {
+  display: block;
+  margin: 0 auto;
+}
+
+#map {
+  width: 940px;
+  padding: 30px;
+  background: #eeffff;
+  margin: 0 auto;
+}
+
+b {
+  font-weight: bold;
+}
+
+.info {
+  font-size: 13px;
+}
+
+iframe {
+  width: 940px;
+  height: 550px;
+  width: 940px;
+  height: 550px;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+}
+
+#text {
+  width: 720px;
+  margin: 10px auto;
+  padding: 0 0 0 15px;
+}
+
+.red {
+  font-size: 14px;
+  line-height: 32px;
+  color: #f55;
+}
+
+dl {
+  width: 650px;
+  margin: 0 auto;
+  padding: 20px 50px;
+}
+
+dt {
+  width: 150px;
+  font-size: 14px;
+  line-height: 32px;
+  float: left;
+  clear: both;
+}
+
+dd {
+  display: block;
+}
+
+dd input {
+  float: left;
+  width: 400px;
+  font-size: 16px;
+  margin: 5px 0;
+}
+
+dd textarea {
+  resize: none;
+  width: 645px;
+  height: 200px;
+  margin: 5px 0;
+}
+
+textarea {
+  font-size: 100%;
+  vertical-align: middle;
+}
+
+#submit_btn {
+  width: 100px;
+  display: block;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 5px 20px;
+  margin: 20px auto;
+  cursor: pointer;
+}
